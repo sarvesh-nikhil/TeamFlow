@@ -1,0 +1,7 @@
+id,name,email,age,skills,department,designation,yearsofexp,status
+A101,John Doe,xyz@gmail.com,43,"DSA,FastAPI,React,Machine Learning,Deep Learning",IT,SDE,1,Benched
+A102,Nikhil Kumar,xyzc@gmail.com,32,"DSA,React,Node",Mech,IT head,2,Blocked
+A103,Satya,abc@gmail.com,33,"DSA,FastAPI,React,Machine Learning,Deep Learning",IT,Data Analyst,4,Blocked
+A104,dsdd,sdad@gmail.com,23,"DSA,React,Node",Sc,Head,2,Blocked
+A111,Aka John,akajohn@gmail.com,34,"React,Node.js,ML",IT,Imagineer,3,Benched
+A112,Felix Harper,FelixHarper@gmail.com,31,"Management,Development",Consulting,Senior Engineer,6,Blocked

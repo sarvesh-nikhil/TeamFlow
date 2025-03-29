@@ -1,0 +1,25 @@
+# Node.js (Frontend)
+React/userhub/node_modules/
+React/userhub/.next/
+React/userhub/.env
+React/userhub/.cache/
+React/userhub/dist/
+
+# Python (Backend)
+FastAPI/__pycache__/
+FastAPI/venv/
+FastAPI/.env
+FastAPI/.pytest_cache/
+FastAPI/.mypy_cache/
+
+
+# Docker
+.dockerignore
+docker-compose.override.yml
+*.log
+
+# System Files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
